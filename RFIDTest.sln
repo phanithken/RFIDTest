@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFIDTest", "RFIDTest\RFIDTest.csproj", "{161AFEDD-BBDA-4E6A-B051-4B886AA08146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTest", "BankTest\BankTest.csproj", "{7B70792D-3109-4E18-A301-0AA40EF32611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Debug|ARM.ActiveCfg = Debug|ARM
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Debug|ARM.Build.0 = Debug|ARM
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Debug|ARM.Deploy.0 = Debug|ARM
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Debug|x64.ActiveCfg = Debug|x64
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Debug|x64.Build.0 = Debug|x64
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Debug|x64.Deploy.0 = Debug|x64
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Debug|x86.ActiveCfg = Debug|x86
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Debug|x86.Build.0 = Debug|x86
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Debug|x86.Deploy.0 = Debug|x86
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Release|Any CPU.ActiveCfg = Release|x86
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Release|ARM.ActiveCfg = Release|ARM
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Release|ARM.Build.0 = Release|ARM
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Release|ARM.Deploy.0 = Release|ARM
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Release|x64.ActiveCfg = Release|x64
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Release|x64.Build.0 = Release|x64
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Release|x64.Deploy.0 = Release|x64
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Release|x86.ActiveCfg = Release|x86
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Release|x86.Build.0 = Release|x86
+		{161AFEDD-BBDA-4E6A-B051-4B886AA08146}.Release|x86.Deploy.0 = Release|x86
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Debug|ARM.Build.0 = Debug|ARM
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Debug|ARM.Deploy.0 = Debug|ARM
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Debug|x64.ActiveCfg = Debug|x64
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Debug|x64.Build.0 = Debug|x64
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Debug|x64.Deploy.0 = Debug|x64
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Debug|x86.ActiveCfg = Debug|x86
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Debug|x86.Build.0 = Debug|x86
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Debug|x86.Deploy.0 = Debug|x86
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Release|Any CPU.ActiveCfg = Release|x86
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Release|ARM.ActiveCfg = Release|ARM
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Release|ARM.Build.0 = Release|ARM
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Release|ARM.Deploy.0 = Release|ARM
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Release|x64.ActiveCfg = Release|x64
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Release|x64.Build.0 = Release|x64
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Release|x64.Deploy.0 = Release|x64
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Release|x86.ActiveCfg = Release|x86
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Release|x86.Build.0 = Release|x86
+		{7B70792D-3109-4E18-A301-0AA40EF32611}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64ABA4E5-13AE-4CDF-8DF2-0C77D5CE1E96}
+	EndGlobalSection
+EndGlobal
